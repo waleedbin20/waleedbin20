@@ -1,18 +1,42 @@
 
-                                                       # Hi 👋, I'm Waleed
+# Hi 👋, I'm Waleed
                                                                    
-Software developer in UK
+#### Software developer in UK
 
 
-About Me
+## About Me
+
 🎓  Alumni        //University of Essex
+
+
 
 📜  Majors        //Computer Systems Engineering
 
+
+
 💼  Working on    //mobile applications and web development 
+
+
 
 📰  Learning      //Microsoft powerapps and automate flows
 
+
+
 📮  Contact       //waleed.binasad19@gmail.com
+
+
+## Tech Stack
+
+
+|       |  |
+| ------------- |:------------:| 
+| .NET Core      |
+| ASP.NET Core      | 
+| HTML      | 
+| Flutter      | 
+| CSS      |
+| Angular      |
+| Azure      |
+| Firebase      | 
 
 
