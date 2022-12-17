@@ -33,10 +33,12 @@
 | .NET Core      |
 | ASP.NET Core      | 
 | HTML      | 
+| JavaScript      |
 | Flutter      | 
 | CSS      |
 | Angular      |
 | Azure      |
 | Firebase      | 
+| PostGreSQL      |
 
 
