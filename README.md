@@ -18,7 +18,7 @@
 
 
 
-📰  Learning      //Microsoft powerapps and automate flows
+📰  Learning      //Microsoft powerapps, automate flows, cloud
 
 
 
@@ -40,5 +40,6 @@
 | Azure      |
 | Firebase      | 
 | PostGreSQL      |
+| NextJs      |
 
 
