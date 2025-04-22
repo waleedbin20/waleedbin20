@@ -32,10 +32,10 @@
 | ------------- |:------------:| 
 | .NET Core      |
 | ASP.NET Core      | 
-| HTML      | 
-| JavaScript      |
+| Gen AI      | 
+| Python      |
 | Flutter      | 
-| CSS      |
+| Vibe Coding      |
 | Angular      |
 | Azure      |
 | Firebase      | 
