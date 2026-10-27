@@ -1,6 +1,6 @@
 # Hi, I'm Waleed
 
-**AI engineer · full stack · founder of [VergeSphere](https://vergesphere.com)**
+**AI engineer · full stack · founder of [Kranew](https://kranew.com)**
 
 I build systems that take messy operational work and turn it into something a team can actually run. Lately that means agentic products, live business tools, and the occasional trading bot. Based in the UK. I ship fast.
 
