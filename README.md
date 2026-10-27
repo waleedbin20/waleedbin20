@@ -8,7 +8,7 @@ I build systems that take messy operational work and turn it into something a te
 
 ## Now
 
-Building [VergeSphere](https://vergesphere.com), an agency for AI tools and digital products, and running operations software for a heavy-machinery hire company in Abu Dhabi.
+Building [Kranew](https://kranew.com), an AI Operations tool, and running operations software for a heavy-machinery hire company in Abu Dhabi.
 
 ---
 
